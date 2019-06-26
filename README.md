@@ -1,2 +1,2 @@
 # CursoAluha
-Back das aulas feitas no Curso Aluha
+Backup das aulas feitas no Curso Aluha
