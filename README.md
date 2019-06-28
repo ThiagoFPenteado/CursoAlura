@@ -1,3 +1,3 @@
-# CursoAluha
+# Curso Alura
 Backup das aulas feitas no Curso Alura
-C# e .NET
+# C# e .NET
