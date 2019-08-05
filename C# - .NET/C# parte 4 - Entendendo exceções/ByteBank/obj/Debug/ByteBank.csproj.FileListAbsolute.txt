@@ -1,0 +1,7 @@
+C:\Users\thiago.penteado\source\repos\CursoAluha\ByteBank - csharpexceptions\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\thiago.penteado\source\repos\CursoAluha\ByteBank - csharpexceptions\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\thiago.penteado\source\repos\CursoAluha\ByteBank - csharpexceptions\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\thiago.penteado\source\repos\CursoAluha\ByteBank - csharpexceptions\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\thiago.penteado\source\repos\CursoAluha\ByteBank - csharpexceptions\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\thiago.penteado\source\repos\CursoAluha\ByteBank - csharpexceptions\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\thiago.penteado\source\repos\CursoAluha\ByteBank - csharpexceptions\ByteBank\obj\Debug\ByteBank.pdb
