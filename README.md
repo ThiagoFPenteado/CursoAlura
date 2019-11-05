@@ -9,6 +9,6 @@ Backup das aulas feitas no Curso Alura
 - Você vai estudar e praticar com a JPA2 e Hibernate dentro da Java EE, fará uma aplicação web com JSF2 e CDI
 - Backup da Aula 1 no git
 
-# Formação Multiplataforma mobile Xamarin
+# Formação Multiplataforma Mobile Xamarin
 - Crie uma poderosa app utilizando o poder e elegância do C#
 - Backup da Aula 1 no git
