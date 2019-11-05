@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TestDrive.View.ListagemView"
+             Title="Test Drive">
+
+    <ListView x:Name="listViewVeiculos" ItemsSource="{Binding Veiculos}" Margin="25"
+              ItemTapped="listViewVeiculos_ItemTapped">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <ViewCell.View>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="{Binding Nome}" FontSize="20" VerticalTextAlignment="Center"></Label>
+                            <Label Text=" - " VerticalTextAlignment="Center"></Label>
+                            <Label Text="{Binding PrecoFomatado}" FontAttributes="Bold" VerticalTextAlignment="Center"></Label>
+                            
+                            <!--Outra maneira de formatar o preço-->
+                            <!--<Label Text="{Binding Preco, StringFormat='R$ {0:F0}'}" FontAttributes="Bold" VerticalTextAlignment="Center"></Label>-->
+                        </StackLayout>
+                        <!--<Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <FormattedString.Spans>
+                                        <Span Text="{Binding Nome}" FontSize="20"></Span>
+                                        <Span Text=" - "></Span>
+                                        <Span Text="{Binding Preco, StringFormat='R$ {0:F0}'}" FontAttributes="Bold"></Span>
+                                    </FormattedString.Spans>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>-->
+                    </ViewCell.View>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

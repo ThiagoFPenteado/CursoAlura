@@ -1,0 +1,15 @@
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.deps.json
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.dll
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\ref\TestDrive.dll
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.pdb
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.AssemblyInfoInputs.cache
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.AssemblyInfo.cs
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.dll
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\ref\TestDrive.dll
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.pdb
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\View\ListagemView.xaml.g.cs
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.csprojAssemblyReference.cache
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\View\DetalheView.xaml.g.cs
+D:\Estudo\Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\View\AgendamentoView.xaml.g.cs
