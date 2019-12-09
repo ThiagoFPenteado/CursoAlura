@@ -12,3 +12,6 @@ Backup das aulas feitas no Curso Alura
 # Formação Multiplataforma Mobile Xamarin
 - Crie uma poderosa app utilizando o poder e elegância do C#
 - Backup da Aula 1 no git
+
+# Formação Go
+- Go: Iniciando com a linguagem do Google
