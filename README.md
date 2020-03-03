@@ -15,3 +15,6 @@ Backup das aulas feitas no Curso Alura
 
 # Formação Go
 - Go: Iniciando com a linguagem do Google
+
+# Formação Angular
+- TypeScript parte 1: Evoluindo seu Javascript
